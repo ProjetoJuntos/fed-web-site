@@ -16,13 +16,30 @@ h1{
 	color: rgb(255, 255, 255);
 }
 
-.divBanner2{ 
+.tituloBanner3{
+	font-size: 150pt;
+	font-family: 'Amatic SC', cursive;
+	position: absolute;
+	left: 300px;
+	top: 2310px;
+	color: rgb(255, 255, 255);
+}
+
+.divBanner{ 
 	display: inline-block;
 	position: relative;	
 }
 
+.fontQuemSomos{
+	text-align: justify;
+	padding: 100px;
+	font-family: 'Bubbler One', sans-serif;
+	font-size: 20pt;
+	float: right;
+}
 
-/* .imgBanner2{ */
-	/* float: left; */
-
-/* } */
+.ftQuemSomos1{
+	width: 350px;
+	padding-top: 100px;
+	padding-left: 10px;
+}
