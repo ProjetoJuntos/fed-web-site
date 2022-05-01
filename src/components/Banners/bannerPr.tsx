@@ -10,7 +10,7 @@ class BannerPr extends React.Component{
         return(
             <Carousel fade>
             <Carousel.Item interval={3000}>
-              <img className="d-block w-100" 
+              <img id='inicio'  className="d-block w-100" 
                  height="520"
                 src={banner1a}
                 alt="First slide"

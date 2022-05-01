@@ -7,7 +7,7 @@ class Menu extends React.Component {
 
     render() {
         return (
-            <Navbar bg="light" expand="lg">
+            <Navbar className="fixed-top" bg="light" expand="lg">
 
                 {/* <img src={juntos_logo} width="90" height="90" alt="juntos"></img>  */}
 

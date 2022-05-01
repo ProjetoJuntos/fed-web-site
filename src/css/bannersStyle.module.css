@@ -12,7 +12,7 @@ h1{
 	font-family: 'Amatic SC', cursive;
 	position: absolute;
 	left: 400px;
-	top: 1455px;
+	top: 1400px;
 	color: rgb(255, 255, 255);
 }
 
@@ -21,7 +21,7 @@ h1{
 	font-family: 'Amatic SC', cursive;
 	position: absolute;
 	left: 300px;
-	top: 2310px;
+	top: 2250px;
 	color: rgb(255, 255, 255);
 }
 
@@ -32,7 +32,7 @@ h1{
 
 .fontQuemSomos{
 	text-align: justify;
-	padding: 100px;
+	padding: 80px;
 	font-family: 'Bubbler One', sans-serif;
 	font-size: 20pt;
 	float: right;
@@ -40,6 +40,11 @@ h1{
 
 .ftQuemSomos1{
 	width: 350px;
-	padding-top: 100px;
+	padding-top: 80px;
 	padding-left: 10px;
+}
+
+.circle:hover
+{
+        border-radius:7%;
 }

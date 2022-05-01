@@ -13,7 +13,7 @@ class banner3Somos extends React.Component{
         return(
             <div className='divBanner'>
 				<div className='imgBanner'>
-					<img src={banner3} alt='banner3Somos' />
+					<img id='quemSomos' className={style.circle} src={banner3} alt='banner3Somos' />
                     <h1 className={style.tituloBanner3}>Quem somos</h1>
 					<img src={linha_banner3} alt='linhaBanner2' />
 				</div>
@@ -27,9 +27,19 @@ class banner3Somos extends React.Component{
                     Qui aspernatur error in mollitia libero sed perspiciatis <br></br>
                     quam quo explicabo amet. Et corporis voluptas sed inventore <br></br>
                     consequatur eum aspernatur cumque est error laboriosam et molestias<br></br>
-                     neque sed nobis quasi aut harum totam. Eum repellendus earum ut <br></br>
-                     voluptate neque est quam quos qui consequuntur omnis vel <br></br>
-                     praesentium aliquid ut necessitatibus galisum et voluptate .
+                    neque sed nobis quasi aut harum totam. Eum repellendus earum ut <br></br>
+                    voluptate neque est quam quos qui consequuntur omnis vel <br></br>
+                    praesentium aliquid ut necessitatibus galisum et voluptate . <br></br>
+                    Lorem ipsum dolor sit amet.<br></br> 
+                    Quo quis voluptatem sed
+                    consequatur officiis ut corporis rerum et accusantium <br></br>
+                    animi qui quisquam sequi qui aliquam dolorem. <br></br>
+                    Qui aspernatur error in mollitia libero sed perspiciatis <br></br>
+                    quam quo explicabo amet. Et corporis voluptas sed inventore <br></br>
+                    consequatur eum aspernatur cumque est error laboriosam et molestias<br></br>
+                    neque sed nobis quasi aut harum totam. Eum repellendus earum ut <br></br>
+                    voluptate neque est quam quos qui consequuntur omnis vel <br></br>
+                    praesentium aliquid ut necessitatibus galisum et voluptate .
                     </p>
                     <div className={style.ftQuemSomos1}>
                         <img src={ftQuemSomos2}></img>
