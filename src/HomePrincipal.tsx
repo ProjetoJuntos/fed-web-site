@@ -8,6 +8,7 @@ import Banner2 from './components/Banners/banner2';
 import Ranking from './components/Ranking/ranking';
 import Banner3Somos from './components/Banners/banner3Somos';
 import Rodape from './components/Rodape/rodape';
+import TelaLogin from './components/Login/telaLogin';
 
 function HomePrincipal() {
   return (
@@ -21,6 +22,7 @@ function HomePrincipal() {
       <Ranking />
       <Banner3Somos />
       <Rodape/>
+      <TelaLogin/>
     </div>
   );
 }
