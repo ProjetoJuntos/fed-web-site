@@ -22,7 +22,7 @@ function HomePrincipal() {
       <Ranking />
       <Banner3Somos />
       <Rodape/>
-      <TelaLogin/>
+      <TelaLogin />
     </div>
   );
 }
